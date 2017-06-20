@@ -119,6 +119,8 @@ NetDrive (free for home use): You can assign a drive letter to the WebDAV drive 
 
 ## History
 
+Initiated in 2011.
+
 #### 2.0
 - synchronization page to merge and synchronize a remote directory with a local directory
   - uses Mergely to merge local/remote files
