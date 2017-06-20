@@ -213,6 +213,9 @@ Amazing original work by Martin Vlcek.
 
 Work available under GPLv3 license.
 
+phpEasyVCS uses some classes from the PEAR project, which are licensed 
+under the PHP license, see license_PEAR.txt
+
 ## Problem Solving
 
 The following is a list of problems with various WebDAV clients:
